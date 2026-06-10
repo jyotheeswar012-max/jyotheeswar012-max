@@ -37,24 +37,68 @@
 
 ---
 
-## 📁 My Repositories
+## 📁 My Projects
 
-<div align="center">
+### 🛍️ TechMart Business Analytics Dashboard 2025
 
-<a href="https://github.com/jyotheeswar012-max/techmart-dashboard-2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotheeswar012-max&repo=techmart-dashboard-2025&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/jyotheeswar012-max/hyderabad-urban-pulse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotheeswar012-max&repo=hyderabad-urban-pulse&theme=tokyonight&hide_border=true" />
-</a>
+> 📊 **A fully interactive BI dashboard revealing $5.3M+ in retail sales across 9,353 transactions from 1,198 customers — with 12+ dynamic Plotly charts covering sales trends, regional performance, category breakdowns & profit analysis.**
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white)
 
-<a href="https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotheeswar012-max&repo=sapthagiri-diagnostics-lab&theme=tokyonight&hide_border=true" />
-</a>
+```
+💰 Revenue Tracked   : $5,357,458
+🛝 Transactions       : 9,353
+👥 Customers          : 1,198
+📈 Interactive Charts : 12+
+🌎 Regions            : 4 (US National)
+```
 
-</div>
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20Dashboard-success?style=for-the-badge)](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/docs/)
+[![📁 Repo](https://img.shields.io/badge/📁%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/techmart-dashboard-2025)
+
+---
+
+### 🏙️ Hyderabad Urban Pulse
+
+> 🏙️ **Urban data analytics dashboard that uncovers the heartbeat of Hyderabad — India's fastest-growing tech city. Tracks traffic congestion, population density, infrastructure coverage and smart city KPIs zone-by-zone.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Urban Analytics](https://img.shields.io/badge/Urban%20Analytics-🏙️-blueviolet?style=flat-square)
+
+```
+🚗 Traffic Analysis    : Peak hours & congestion zones
+👥 Population Trends   : Zone-wise density & growth
+🏗️ Infrastructure      : Roads, metro & civic amenities
+💡 Smart City KPIs     : Urban health scorecard
+```
+
+[![📁 Repo](https://img.shields.io/badge/📁%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse)
+
+---
+
+### 🏥 Sapthagiri Diagnostics Lab
+
+> 🏥 **A smart, modern diagnostics lab management system that digitizes patient records, test reports & appointment bookings for a real-world clinic — built with clean, responsive web technologies.**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Healthcare](https://img.shields.io/badge/Healthcare-🏥-red?style=flat-square)
+
+```
+👤 Patient Records  : Add, view & manage profiles
+🧪 Test Management  : Blood tests, scans & reports
+📅 Appointments     : Online slot booking
+📱 Responsive UI    : Desktop, tablet & mobile
+```
+
+[![📁 Repo](https://img.shields.io/badge/📁%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab)
 
 ---
 
@@ -99,20 +143,6 @@
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jyotheeswar012-max&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|---|---|---|---|
-| 🛍️ **TechMart Dashboard 2025** | Interactive business analytics dashboard tracking $5.3M+ sales, 9,353 transactions, 1,198 customers | Python, Pandas, Plotly, HTML | [🔗 Live](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/docs/) \| [📁 Repo](https://github.com/jyotheeswar012-max/techmart-dashboard-2025) |
-| 🏥 **Sapthagiri Diagnostics Lab** | Diagnostics lab management system | HTML, CSS, JS | [📁 Repo](https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab) |
-| 🏙️ **Hyderabad Urban Pulse** | Urban data analytics dashboard for Hyderabad | Python | [📁 Repo](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse) |
 
 </div>
 
