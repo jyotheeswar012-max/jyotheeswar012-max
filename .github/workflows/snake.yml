@@ -8,11 +8,18 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,5 +33,9 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          fqdn: false
+          keep_history: false
+          allow_empty_commit: false
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
