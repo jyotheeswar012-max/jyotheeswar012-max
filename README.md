@@ -22,6 +22,7 @@
 | 📚 **Degree** | B.Tech – Data Science (Expected June 2027) |
 | 📧 **Email** | jyotheeswar0802@gmail.com |
 | 📞 **Phone** | +91 8712700720 |
+| 🔗 **LinkedIn** | [jyotheeswar-reddy-0b1185328](https://www.linkedin.com/in/jyotheeswar-reddy-0b1185328/) |
 | 📍 **Location** | Madanapalle, AP · India 🇮🇳 |
 | 🔭 **Working On** | Patent-Pending Intelligent Swarm Robotics |
 | 🌱 **Learning** | Deep Learning · NLP · Computer Vision · ROS |
@@ -57,7 +58,7 @@
 
 ### 🏙️ Hyderabad Urban Pulse
 
-> 🏙️ **Urban data analytics dashboard that uncovers the heartbeat of Hyderabad — India’s fastest-growing tech city. Tracks traffic congestion, population density, infrastructure coverage and smart city KPIs zone-by-zone.**
+> 🏙️ **Urban data analytics dashboard that uncovers the heartbeat of Hyderabad — India's fastest-growing tech city. Tracks traffic congestion, population density, infrastructure coverage and smart city KPIs zone-by-zone.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
