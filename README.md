@@ -35,6 +35,30 @@
 
 ## 📁 My Projects
 
+### 🚀 Market Nexus — Big Tech Intelligence Platform
+
+> 📈 **A full-stack financial analytics dashboard I built from scratch and deployed on Streamlit Cloud — tracking Apple · Microsoft · Google · Amazon · Meta · NVIDIA · Tesla · Netflix using real earnings data, 5-year stock history & competitive intelligence across 6 interactive pages with 20+ custom Plotly charts.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+```
+🏢 Companies Tracked   : 8 Big Tech (AAPL, MSFT, GOOGL, AMZN, META, NVDA, TSLA, NFLX)
+📊 Interactive Charts  : 20+ (Radar, Violin, Treemap, Heatmap, Bollinger Bands & more)
+📅 Time Range          : 2020 – 2024 (5 Years)
+📦 Data Points         : 10,656+
+🌐 Deployment          : Streamlit Cloud (Live)
+🛠️ Built & Deployed    : Entirely by me
+```
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20App-Streamlit-FF4B4B?style=for-the-badge)](https://market-nexus-myds7qdhci8mnmhvpylbmw.streamlit.app)
+[![📁 Repo](https://img.shields.io/badge/📁%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/market-nexus)
+
+---
+
 ### 🛍️ TechMart Business Analytics Dashboard 2025
 
 > 📊 **A fully interactive BI dashboard revealing $5.3M+ in retail sales across 9,353 transactions — 12+ dynamic Plotly charts covering sales trends, regional performance, category breakdowns & profit analysis.**
