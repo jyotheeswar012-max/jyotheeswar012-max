@@ -22,7 +22,7 @@
 | 📚 **Degree** | B.Tech – Data Science (Expected June 2027) |
 | 📧 **Email** | jyotheeswar0802@gmail.com |
 | 📞 **Phone** | +91 8712700720 |
-| 🔗 **LinkedIn** | [jyotheeswar-reddy-0b1185328](https://www.linkedin.com/in/jyotheeswar-reddy-0b1185328/) |
+| 🔗 **LinkedIn** | [a-jyotheeswar-reddy](https://www.linkedin.com/in/a-jyotheeswar-reddy/) |
 | 📍 **Location** | Madanapalle, AP · India 🇮🇳 |
 | 🔭 **Working On** | Patent-Pending Intelligent Swarm Robotics |
 | 🌱 **Learning** | Deep Learning · NLP · Computer Vision · ROS |
@@ -155,7 +155,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotheeswar012-max)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotheeswar0802@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotheeswar-reddy-0b1185328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-jyotheeswar-reddy/)
 
 </div>
 
