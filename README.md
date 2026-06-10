@@ -13,8 +13,6 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 ```yaml
 ╔══════════════════════════════════════╗
 ║          JYOTHEESWAR REDDY           ║
@@ -32,8 +30,6 @@
 🎯  Goal        : Land a top Data Analyst role 🚀
 ⚡  Fun Fact    : I turn raw data into stories! 🎨
 ```
-
-<br clear="right"/>
 
 ---
 
