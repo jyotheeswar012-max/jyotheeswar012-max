@@ -11,19 +11,50 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧬 About Me
 
-```python
-profile = {
-    "name"       : "Jyotheeswar Reddy",
-    "university" : "Manipal University, Jaipur",
-    "email"      : "jyotheeswar0802@gmail.com",
-    "focus"      : ["Data Analytics", "Python", "Data Visualization"],
-    "currently"  : "Building interactive business dashboards 📊",
-    "learning"   : ["Machine Learning", "SQL", "Power BI"],
-    "fun_fact"   : "I turn raw data into beautiful stories! 🎨"
-}
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+```yaml
+╔══════════════════════════════════════╗
+║          JYOTHEESWAR REDDY           ║
+║       Data Analyst in the Making     ║
+╚══════════════════════════════════════╝
+
+👤  Name     : Jyotheeswar Reddy
+🎓  College  : Manipal University, Jaipur
+📧  Email    : jyotheeswar0802@gmail.com
+📍  Location : India 🇮🇳
+
+🔭  Working On  : Interactive Business Dashboards
+🌱  Learning    : Machine Learning · SQL · Power BI
+💡  Interests   : Data Viz · Analytics · Automation
+🎯  Goal        : Land a top Data Analyst role 🚀
+⚡  Fun Fact    : I turn raw data into stories! 🎨
 ```
+
+<br clear="right"/>
+
+---
+
+## 📁 My Repositories
+
+<div align="center">
+
+<a href="https://github.com/jyotheeswar012-max/techmart-dashboard-2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotheeswar012-max&repo=techmart-dashboard-2025&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/jyotheeswar012-max/hyderabad-urban-pulse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotheeswar012-max&repo=hyderabad-urban-pulse&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotheeswar012-max&repo=sapthagiri-diagnostics-lab&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -80,7 +111,8 @@ profile = {
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
 |---|---|---|---|
 | 🛍️ **TechMart Dashboard 2025** | Interactive business analytics dashboard tracking $5.3M+ sales, 9,353 transactions, 1,198 customers | Python, Pandas, Plotly, HTML | [🔗 Live](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/docs/) \| [📁 Repo](https://github.com/jyotheeswar012-max/techmart-dashboard-2025) |
-| 💼 **Portfolio** | Personal portfolio website | HTML, CSS, JS | [📁 Repo](https://github.com/jyotheeswar012-max/portfolio) |
+| 🏥 **Sapthagiri Diagnostics Lab** | Diagnostics lab management system | HTML, CSS, JS | [📁 Repo](https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab) |
+| 🏙️ **Hyderabad Urban Pulse** | Urban data analytics dashboard for Hyderabad | Python | [📁 Repo](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse) |
 
 </div>
 
