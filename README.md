@@ -136,6 +136,8 @@ profile = {
 ### 💡 *"Data is the new oil — and I'm here to refine it!"* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jyotheeswar012-max&color=1A73E8&style=flat-square&label=Profile+Views)
+&nbsp;
+[![u8views](https://u8views.com/api/v1/github/profiles/jyotheeswar012-max/views/day-week-month-total-badge.svg)](https://u8views.com/github/jyotheeswar012-max)
 
 **⭐ Star my repos if you find them useful! Thanks for visiting! ⭐**
 
