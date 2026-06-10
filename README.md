@@ -61,21 +61,31 @@
 
 ### 🛍️ TechMart Business Analytics Dashboard 2025
 
-> 📊 **A fully interactive BI dashboard revealing $5.3M+ in retail sales across 9,353 transactions — 12+ dynamic Plotly charts covering sales trends, regional performance, category breakdowns & profit analysis.**
+> 📊 **End-to-end retail analytics project — one-time ETL pipeline, 16+ interactive Plotly charts, a live What-If Scenario Analysis Engine, and 18 pytest unit & integration tests. Analyzes $5.31M in static 2025 sales data across 9,353 transactions with actionable business insights.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-18%20passed-brightgreen?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ```
-💰 Revenue Tracked   : $5,357,458
-🛝 Transactions       : 9,353
-👥 Customers          : 1,198
-📈 Interactive Charts : 12+
-🌎 Regions            : 4 (US National)
+💰 Total Revenue        : $5,311,299  (static 2025 dataset)
+📈 Total Profit         : $1,677,063
+📊 Avg Profit Margin    : 31.7%
+🧾 Transactions         : 9,353
+👥 Unique Customers     : 1,198
+📉 Interactive Charts   : 16+  (Overview · Products · Customers · Operations · Insights)
+🔬 Scenario Engine      : Live What-If sliders (revenue growth, discount, new category, COGS)
+🧪 Test Suite           : 18 pytest unit + integration tests
+🌎 Regions              : 4 (US National)
+📌 Data                 : Static 2025 dataset — no live fetching
 ```
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20Dashboard-success?style=for-the-badge)](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/docs/)
+> 💡 **Key Insight:** Discounts above 20% collapse net margin from 31.7% → under 17%. Capping at ≤15% for low-margin categories could recover ~$130K in annual profit.
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-GitHub%20Pages-success?style=for-the-badge)](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/)
 [![📁 Repo](https://img.shields.io/badge/📁%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/techmart-dashboard-2025)
 
 ---
