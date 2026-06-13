@@ -144,7 +144,7 @@
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
 |---|---|---|---|
-| B.Tech – Data Science | Manipal University Jaipur | Expected June 2027 | 8.03 CGPA |
+| B.Tech – Data Science | Manipal University Jaipur |  June 2027 | 8.03 |
 | Class XII | Narayana Junior College, Hyderabad | Jun 2023 | 92.8% |
 | Class X | Narayana Olympiad School, Tirupati | Jul 2021 | 99.33% |
 
