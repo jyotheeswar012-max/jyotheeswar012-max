@@ -18,12 +18,13 @@
 
 ## About
 
-B.Tech Data Science student at **Manipal University Jaipur** (Expected June 2027, GPA 8.03), based in Hyderabad, India. I build data-driven applications end-to-end — from ETL pipelines to deployed dashboards. Currently focused on financial market intelligence systems and automated analytics tools.
+Data Science & ML Engineer (B.Tech, Manipal University Jaipur · GPA 8.03 · 2027) building production-grade analytics systems from scratch.
 
-- 🔭 Working on patent-pending **Intelligent Swarm Robotics** research
-- 🌱 Learning advanced ML, computer vision, and real-time data streaming
-- 📊 Passionate about turning raw data into actionable financial insights
-- 🎯 Seeking roles in Data Engineering, Data Science, and AI/ML
+- 📊 Built **4 full-stack data apps** deployed live — covering financial markets, retail analytics, and urban intelligence
+- 📈 Processed **10,000+ data points** across 5-year stock histories and $5.31M in retail transactions
+- 🧪 Wrote **18 pytest unit & integration tests** for automated pipeline validation (TechMart)
+- 🔭 Co-authoring a **patent-pending** Intelligent Swarm Robotics system (AI + ROS)
+- 🎓 Academic: **99.33% (Class X)** · **92.8% (Class XII)** · **8.03 GPA (B.Tech)**
 
 ---
 
