@@ -1,105 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jyotheeswar%20Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16" />
 
-# Jyotheeswar Reddy
+<br/>
 
-**Data Engineer · Full-Stack Developer · ML Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=📁+4+Production+Apps+%7C+10%2C000%2B+Data+Points+Processed;%F0%9F%A7%AA+18+pytest+Tests+%7C+Patent-Pending+AI+Research;%F0%9F📊+Financial+%C2%B7+Retail+%C2%B7+Urban+%C2%B7+Healthcare+Analytics;%F0%9F🎯+Open+to+Data+Eng+%C2%B7+ML+%C2%B7+SWE+Roles)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+financial+intelligence+systems;Python+%7C+Streamlit+%7C+Plotly+%7C+Pandas;End-to-end+data+pipelines+%26+dashboards;Open+to+Data+%26+ML+Engineering+roles)](https://git.io/typing-svg)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-jyotheeswar-reddy/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jyotheeswar0802@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jyotheeswar012-max&style=flat&color=58A6FF&label=Profile+Views)](https://github.com/jyotheeswar012-max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-jyotheeswar-reddy/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotheeswar0802@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotheeswar012-max)
+[![Profile Views](https://komarev.com/ghpvc/?username=jyotheeswar012-max&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/jyotheeswar012-max)
 
 </div>
 
 ---
 
-## About
+## ⚡ About Me
 
-Data Science & ML Engineer (B.Tech, Manipal University Jaipur · GPA 8.03 · 2027) building production-grade analytics systems from scratch.
+```yaml
+name       : Jyotheeswar Reddy
+university : Manipal University Jaipur
+degree     : B.Tech Data Science (2027)
+gpa        : 8.03 / 10
+location   : Hyderabad, India 🇮🇳
+status     : Open to Internships & Full-time roles
+passion    : Turning raw data into real intelligence
+```
 
-- 📊 Built **4 full-stack data apps** deployed live — covering financial markets, retail analytics, and urban intelligence
-- 📈 Processed **10,000+ data points** across 5-year stock histories and $5.31M in retail transactions
-- 🧪 Wrote **18 pytest unit & integration tests** for automated pipeline validation (TechMart)
-- 🔭 Co-authoring a **patent-pending** Intelligent Swarm Robotics system (AI + ROS)
-- 🎓 Academic: **99.33% (Class X)** · **92.8% (Class XII)** · **8.03 GPA (B.Tech)**
-
----
-
-## Featured Projects
-
-### [Market Nexus](https://github.com/jyotheeswar012-max/market-nexus) — Big Tech Intelligence Platform
-Full-stack financial analytics dashboard tracking 8 Big Tech companies (AAPL, MSFT, GOOGL, AMZN, META, NVDA, TSLA, NFLX) with 20+ interactive Plotly charts, 5-year historical data, and live Streamlit Cloud deployment.
-
-`Python` `Streamlit` `Plotly` `Pandas` `YFinance` · [**Live App →**](https://market-nexus-myds7qdhci8mnmhvpylbmw.streamlit.app)
-
-### [TechMart Analytics Dashboard](https://github.com/jyotheeswar012-max/techmart-dashboard-2025) — Retail Business Intelligence
-End-to-end retail analytics platform analyzing $5.31M in sales data across 9,353 transactions with a live What-If Scenario Engine, 16+ charts, and 18 pytest unit/integration tests.
-
-`Python` `Plotly` `Pandas` `pytest` `HTML/JS` · [**Live Demo →**](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/)
-
-### [Hyderabad Urban Pulse](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse) — Smart City Analytics
-Urban data analytics dashboard tracking traffic, population density, and infrastructure KPIs across Hyderabad's zones.
-
-`Python` `Pandas` `Plotly`
-
-### [Sapthagiri Diagnostics Lab](https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab) — Healthcare Management System
-Modern diagnostics lab management system digitizing patient records, test reports, and appointment bookings.
-
-`HTML5` `CSS3` `JavaScript`
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Tools & Platforms**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## GitHub Stats
+### 📊 By the Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotheeswar012-max&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotheeswar012-max&layout=compact&theme=github_dark&hide_border=true" height="160" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotheeswar012-max&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff)
+| 🚀 Metric | 📊 Value |
+|:---|:---:|
+| Production apps deployed | **4** |
+| Data points processed | **10,000+** |
+| Revenue analyzed (TechMart) | **$5.31M** |
+| Interactive charts built | **36+** |
+| Automated tests written | **18 pytest** |
+| Companies tracked (Market Nexus) | **8 Big Tech** |
+| Research output | **1 Patent-Pending** |
+| Academic score (Class X) | **99.33%** |
 
 </div>
 
 ---
 
-## Contribution Snake
+## 📁 Featured Projects
+
+<div align="center">
+
+### 📈 [Market Nexus](https://github.com/jyotheeswar012-max/market-nexus)
+
+</div>
+
+> **Big Tech Intelligence Platform** — Live financial analytics for AAPL, MSFT, GOOGL, AMZN, META, NVDA, TSLA, NFLX
+
+```
+🏢 8 Companies   📅 5-Year History   📊 20+ Plotly Charts   📦 10,656+ Data Points
+🌐 Deployed on Streamlit Cloud            🛠️ Built & maintained solo
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Streamlit-FF4B4B?style=for-the-badge)](https://market-nexus-myds7qdhci8mnmhvpylbmw.streamlit.app)
+[![Source](https://img.shields.io/badge/📁%20Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/market-nexus)
+
+---
+
+<div align="center">
+
+### 🛒 [TechMart Analytics Dashboard](https://github.com/jyotheeswar012-max/techmart-dashboard-2025)
+
+</div>
+
+> **Retail Business Intelligence** — End-to-end analytics with live What-If scenario engine
+
+```
+💰 $5.31M Revenue   🧧 9,353 Transactions   📊 16+ Charts   🧪 18 pytest Tests
+💡 Key Insight: Discounts >20% collapse margin from 31.7% → <17%
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-18%20passed-brightgreen?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-GitHub%20Pages-success?style=for-the-badge)](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/)
+[![Source](https://img.shields.io/badge/📁%20Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jyotheeswar012-max/techmart-dashboard-2025)
+
+---
+
+<div align="center">
+
+### 🏙️ [Hyderabad Urban Pulse](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse)  |  🏥 [Sapthagiri Diagnostics Lab](https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab)
+
+</div>
+
+Smart city KPI tracker across Hyderabad zones (traffic · density · infrastructure) and a full diagnostics lab management system for real-world clinic operations.
+
+`Python` `Pandas` `Plotly` · `HTML5` `CSS3` `JavaScript`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**🐍 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**🧠 Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit&#8209;learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**⚙️ Tools & Platforms**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jyotheeswar012-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotheeswar012-max&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jyotheeswar012-max&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotheeswar012-max&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -113,20 +175,24 @@ Modern diagnostics lab management system digitizing patient records, test report
 
 ---
 
-## Education
+## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech – Data Science | Manipal University Jaipur | 2027 | 8.03 GPA |
-| Class XII | Narayana Junior College, Hyderabad | 2023 | 92.8% |
-| Class X | Narayana Olympiad School, Tirupati | 2021 | 99.33% |
+<div align="center">
+
+| 🎓 Degree | 🏢 Institution | 📅 Year | 🏆 Score |
+|:---|:---|:---:|:---:|
+| B.Tech – Data Science | Manipal University Jaipur | 2027 | **8.03 GPA** |
+| Class XII | Narayana Junior College, Hyderabad | 2023 | **92.8%** |
+| Class X | Narayana Olympiad School, Tirupati | 2021 | **99.33%** |
+
+</div>
 
 ---
 
 <div align="center">
 
-*"From raw data to real intelligence."*
+### 🌟 *"From raw data to real intelligence."*
+
+![Wave](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer" />
