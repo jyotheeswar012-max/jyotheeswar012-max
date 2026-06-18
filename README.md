@@ -158,16 +158,6 @@ B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderaba
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jyotheeswar012-max&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -182,6 +172,16 @@ B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderaba
 <br/>
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotheeswar012-max&theme=github-compact&hide_border=true&area=true&color=238636&line=238636&point=58A6FF&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jyotheeswar012-max&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
