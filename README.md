@@ -177,16 +177,6 @@ B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderaba
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyotheeswar012-max&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
