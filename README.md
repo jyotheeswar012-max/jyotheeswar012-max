@@ -21,7 +21,7 @@
 
 B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderabad, India
 
-- 📊 Built **4 production apps** deployed live — financial, retail, urban & healthcare domains
+- 📊 Built **4 production apps** deployed live — financial, retail, NSE & healthcare domains
 - 📈 Processed **10,656+ data points** across 5-year stock histories and **$5.31M** in transactions
 - 🧪 Wrote **18 pytest unit & integration tests** for automated pipeline validation
 - 🔭 Co-authoring a **patent-pending** Intelligent Swarm Robotics system (AI + ROS)
@@ -79,19 +79,30 @@ B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderaba
 
 ---
 
-### `HYD-PLS` &nbsp;—&nbsp; [Hyderabad Urban Pulse](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse)
+### `NSE-TRK` &nbsp;—&nbsp; [NSE & Nifty 50 Tracker](https://github.com/jyotheeswar012-max/nifty50-stock-tracker) &nbsp; ![LIVE](https://img.shields.io/badge/LIVE-%E2%97%8F-238636?style=flat-square)
 
-> **Smart City Analytics** — Zone-by-zone urban intelligence for Hyderabad metro
+> **Full-Stack NSE Dashboard** — Live prices, ML predictions, paper trading, sentiment analysis & market calendar
 
 ```
-  COVERAGE  →  Traffic · Population Density · Infrastructure KPIs
-  SIGNAL    ▁▂▂▃▄▅▅▆▆▇▇  ▲ ACCUMULATE
+  COVERAGE  →  All 50 Nifty stocks · 8 sector indices · RBI MPC · F&O expiry
+  PAGES     →  10  (Overview · Time Machine · Scenario Engine · Paper Trading · News Sentiment · ML · Calendar …)
+  FEATURES  →  Live OHLCV · Candlestick · Sentiment scores · Beta-weighted ML · SQLite cache
+  PERF      →  ~2–3s cold load · 60s refresh live · 5 min cache closed
+  DEPLOY    →  Streamlit Cloud            BUILT BY  →  Solo ─ 100%
+
+  SIGNAL    ▁▂▃▄▅▆▇███▇▇▆▇██  ▲ STRONG BUY
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-&nbsp;·&nbsp; [![Source](https://img.shields.io/badge/%E2%86%92%20Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/jyotheeswar012-max/hyderabad-urban-pulse)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![YFinance](https://img.shields.io/badge/YFinance-00897B?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+[![Live App](https://img.shields.io/badge/%E2%86%92%20Live%20App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://nifty50-stock-tracker.streamlit.app)
+[![Source](https://img.shields.io/badge/%E2%86%92%20Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/jyotheeswar012-max/nifty50-stock-tracker)
 
 ---
 
@@ -135,6 +146,7 @@ B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderaba
 **Tools & Platforms**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
