@@ -167,11 +167,11 @@ B.Tech Data Science · Manipal University Jaipur · GPA 8.03 · 2027 · Hyderaba
 
 <br/>
 
-[![streak](https://streak-stats.demolab.com?user=jyotheeswar012-max&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jyotheeswar012-max&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 <br/>
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotheeswar012-max&theme=github-compact&hide_border=true&area=true&color=238636&line=238636&point=58A6FF&bg_color=0d1117)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotheeswar012-max&theme=github-compact&hide_border=true&area=true&color=238636&line=238636&point=58A6FF&bg_color=0d1117" alt="Activity Graph" />
 
 </div>
 
