@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Pixel Art Coding" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Chill Lo-fi Developer" />
 
 - 🎓 B.Tech Data Science @ **Manipal University Jaipur** · GPA **8.03** · Graduating 2027
 - 🚀 Built **4 production apps** — financial analytics, retail BI, NSE tracking & healthcare
@@ -41,20 +41,11 @@
 - 🧪 Written **18 pytest unit & integration tests** with 100% passing rate
 - 🤖 Co-authoring a **patent-pending** Intelligent Swarm Robotics system (AI + ROS)
 - 🏆 **99.33%** in Class X · **92.8%** in Class XII · **8.03 GPA** in B.Tech
+- ☕ Coding with coffee and lo-fi beats
 - 💬 Ask me about **Python, Data Engineering, ML, Streamlit, Financial Analytics**
 - 📫 Reach me at **jyotheeswar0802@gmail.com**
 
 <br clear="right"/>
-
----
-
-## 🎮 Currently Coding
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="Pixel Art Coding Character" />
-
-</div>
 
 ---
 
