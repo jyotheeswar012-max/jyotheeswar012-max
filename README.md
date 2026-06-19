@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/jyotheeswar012-max/jyotheeswar012-max/main/assets/WhatsApp%20Image%202026-06-19%20at%2022.22.48.jpeg" width="220" style="border-radius: 16px; margin-left: 20px;" />
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="260" alt="AI Robot Working" />
 
 - 🎓 B.Tech Data Science @ **Manipal University Jaipur** · GPA **8.03** · Graduating 2027
 - 🚀 Built **4 production apps** — financial analytics, retail BI, NSE tracking & healthcare
