@@ -33,6 +33,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/jyotheeswar012-max/jyotheeswar012-max/main/assets/WhatsApp%20Image%202026-06-19%20at%2022.22.48.jpeg" width="220" style="border-radius: 16px; margin-left: 20px;" />
+
 - 🎓 B.Tech Data Science @ **Manipal University Jaipur** · GPA **8.03** · Graduating 2027
 - 🚀 Built **4 production apps** — financial analytics, retail BI, NSE tracking & healthcare
 - 📊 Processed **10,656+ data points** across 5-year stock histories and **$5.31M** in transactions
@@ -41,6 +43,8 @@
 - 🏆 **99.33%** in Class X · **92.8%** in Class XII · **8.03 GPA** in B.Tech
 - 💬 Ask me about **Python, Data Engineering, ML, Streamlit, Financial Analytics**
 - 📫 Reach me at **jyotheeswar0802@gmail.com**
+
+<br clear="right"/>
 
 ---
 
