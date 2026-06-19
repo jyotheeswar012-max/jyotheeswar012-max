@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Hacker Terminal" />
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Pixel Art Coding" />
 
 - 🎓 B.Tech Data Science @ **Manipal University Jaipur** · GPA **8.03** · Graduating 2027
 - 🚀 Built **4 production apps** — financial analytics, retail BI, NSE tracking & healthcare
@@ -48,11 +48,11 @@
 
 ---
 
-## 🖥️ Currently Coding
+## 🎮 Currently Coding
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pIo9ZS1O/giphy.gif" width="480" alt="Dark Hacker Terminal Coding" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="Pixel Art Coding Character" />
 
 </div>
 
