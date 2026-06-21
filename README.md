@@ -166,13 +166,6 @@
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| B.Tech – Data Science | Manipal University Jaipur | 2027 | **8.03 ** |
-| Class XII | Narayana Junior College, Hyderabad | 2023 | **92.8%** |
-| Class X | Narayana Olympiad School, Tirupati | 2021 | **99.33%** |
 
 ---
 
