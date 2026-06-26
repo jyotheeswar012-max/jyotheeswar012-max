@@ -119,7 +119,7 @@
 | [🏦 Market Nexus](https://github.com/jyotheeswar012-max/market-nexus) | Big Tech financial analytics — 8 companies, 5Y data, 20+ charts | Python · Streamlit · Plotly | [▶ Live](https://market-nexus-myds7qdhci8mnmhvpylbmw.streamlit.app) |
 | [🛒 TechMart Analytics](https://github.com/jyotheeswar012-max/techmart-dashboard-2025) | Retail BI with What-If engine · $5.31M revenue analyzed · 18 tests | Python · Plotly · pytest | [▶ Live](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/) |
 | [📈 NSE & Nifty 50](https://github.com/jyotheeswar012-max/nifty50-stock-tracker) | Full-stack NSE dashboard · ML predictions · Paper trading · Sentiment | Python · Streamlit · SQLite | [▶ Live](https://nifty50-stock-tracker.streamlit.app) |
-| [🏥 Sapthagiri Diagnostics](https://github.com/jyotheeswar012-max/sapthagiri-diagnostics-lab) | Real-world clinic management — patients, reports, appointments | HTML · CSS · JS | — |
+| [🕉️ Bhagavad Gita AI Therapist](https://github.com/jyotheeswar012-max/bhagavad-gita-therapist) | AI therapist powered by 700+ Gita shlokas · TF-IDF matching · Groq AI · Trilingual (EN/HI/TE) | Python · Streamlit · Groq AI | [▶ Live](https://bhagavad-gita-therapist.streamlit.app) |
 
 ---
 
@@ -163,9 +163,6 @@
 </picture>
 
 </div>
-
----
-
 
 ---
 
