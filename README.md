@@ -37,7 +37,6 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Chill Lo-fi Developer" />
 
 - 🎓 B.Tech Data Science @ **Manipal University Jaipur** · GPA **8.03** · Graduating 2027
-- 🏆 **SBI GFF 2026 Finalist** — Built **IIE** (Intelligent Insurance Engine): agentic AI crop insurance on YONO · 2.8 s payout vs 47-day PMFBY average
 - 🤖 **4-oracle quorum engine** (NASA POWER · IMD · Sentinel-2 · ICAR) + on-chain smart contract FSM + live ML model (AUC 0.83)
 - 🚀 Built **5 production apps** — AgriFintech AI, financial analytics, retail BI, NSE tracking & healthcare
 - 📊 Processed **10,656+ data points** across 5-year stock histories and **$5.31M** in transactions
@@ -124,7 +123,7 @@
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [⚡ IIE — Intelligent Insurance Engine](https://github.com/jyotheeswar012-max/iie-web) | **SBI GFF 2026** · Agentic AI crop insurance on YONO · 4-oracle quorum · smart contract FSM · 2.8 s payout · live ML model AUC 0.83 · 27/28 India Stack | Next.js · TypeScript · Python · Vercel Edge | [▶ Live](https://iie-web-yono.vercel.app) |
+| [⚡ IIE — Intelligent Insurance Engine](https://github.com/jyotheeswar012-max/iie-web) | Agentic AI crop insurance on YONO · 4-oracle quorum · smart contract FSM · 2.8 s payout · live ML model AUC 0.83 · 27/28 India Stack | Next.js · TypeScript · Python · Vercel Edge | [▶ Live](https://iie-web-yono.vercel.app) |
 | [🏦 Market Nexus](https://github.com/jyotheeswar012-max/market-nexus) | Big Tech financial analytics — 8 companies, 5Y data, 20+ charts | Python · Streamlit · Plotly | [▶ Live](https://market-nexus-myds7qdhci8mnmhvpylbmw.streamlit.app) |
 | [🛒 TechMart Analytics](https://github.com/jyotheeswar012-max/techmart-dashboard-2025) | Retail BI with What-If engine · $5.31M revenue analyzed · 18 tests | Python · Plotly · pytest | [▶ Live](https://jyotheeswar012-max.github.io/techmart-dashboard-2025/) |
 | [📈 NSE & Nifty 50](https://github.com/jyotheeswar012-max/nifty50-stock-tracker) | Full-stack NSE dashboard · ML predictions · Paper trading · Sentiment | Python · Streamlit · SQLite | [▶ Live](https://nifty50-stock-tracker.streamlit.app) |
