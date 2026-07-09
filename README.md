@@ -36,13 +36,13 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Chill Lo-fi Developer" />
 
-- 🎓 B.Tech Data Science @ **Manipal University Jaipur** · GPA **8.03** · Graduating 2027
+- 🎓 B.Tech Data Science @ **Manipal University Jaipur** · Graduating 2027
 - 🤖 **4-oracle quorum engine** (NASA POWER · IMD · Sentinel-2 · ICAR) + on-chain smart contract FSM + live ML model (AUC 0.83)
 - 🚀 Built **5 production apps** — AgriFintech AI, financial analytics, retail BI, NSE tracking & healthcare
 - 📊 Processed **10,656+ data points** across 5-year stock histories and **$5.31M** in transactions
 - 🧪 Written **18 pytest unit & integration tests** with 100% passing rate
 - 🤖 Co-authoring a **patent-pending** Intelligent Swarm Robotics system (AI + ROS)
-- 🏆 **99.33%** in Class X · **92.8%** in Class XII · **8.03 GPA** in B.Tech
+- 🏆 **99.33%** in Class X · **92.8%** in Class XII
 - 🛠️ Latest stack additions: **Next.js · TypeScript · Vercel Edge · Oracle APIs · SHA-256 audit chains**
 - ☕ Coding with coffee and lo-fi beats
 - 💬 Ask me about **Python, Agentic AI, Data Engineering, ML, Next.js, Financial Analytics**
